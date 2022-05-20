@@ -1,44 +1,44 @@
 {
   "events": [
-        {
-          "id": 5928101,
-          "category": "animal welfale",
-          "title": "Cat Adoom Day",
-          "location": "Meow Town",
-          "date": "January 28, 2002",
-          "time": "12:00",
-          "petsAllowed": true,
-          "organizer": "Cat Laydee"
-        },
-        {
-          "id": 4587456,
-          "category": "animal sdf",
-          "title": "Cat Adoom Dasdfy",
-          "location": "Meow Town",
-          "date": "January 278, 2d002",
-          "time": "19:00",
-          "petsAllowed": true,
-          "organizer": "Cat sdfds"
-        },
-        {
-          "id": 3789458,
-          "category": "aneme sdf",
-          "title": "Cat Eva Dasdfy",
-          "location": "Neco Town",
-          "date": "January 278, 2d002",
-          "time": "19:00",
-          "petsAllowed": true,
-          "organizer": "Neko sdfds"
-        },
-        {
-          "id": 8967453,
-          "category": "Niname sdf",
-          "title": "Cat Meva Dasdfy",
-          "location": "Neco Home",
-          "date": "January 65, 2087",
-          "time": "19:00",
-          "petsAllowed": true,
-          "organizer": "Neko Dumble"
-        }
-    ]
+    {
+      "id": 5928101,
+      "category": "animal welfale",
+      "title": "Cat Adoom Day",
+      "location": "Meow Town",
+      "date": "January 28, 2002",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Cat Laydee"
+    },
+    {
+      "id": 4587456,
+      "category": "animal sdf",
+      "title": "Cat Adoom Dasdfy",
+      "location": "Meow Town",
+      "date": "January 278, 2d002",
+      "time": "19:00",
+      "petsAllowed": true,
+      "organizer": "Cat sdfds"
+    },
+    {
+      "id": 3789458,
+      "category": "aneme sdf",
+      "title": "Cat Eva Dasdfy",
+      "location": "Neco Town",
+      "date": "January 278, 2d002",
+      "time": "19:00",
+      "petsAllowed": true,
+      "organizer": "Neko sdfds"
+    },
+    {
+      "id": 8967453,
+      "category": "Niname sdf",
+      "title": "Cat Meva Dasdfy",
+      "location": "Neco Home",
+      "date": "January 65, 2087",
+      "time": "19:00",
+      "petsAllowed": true,
+      "organizer": "Neko Dumble"
+    }
+  ]
 }
